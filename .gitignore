@@ -1,0 +1,15 @@
+# Visual Studio settings and caches
+.vs/
+
+# Build output
+bin/
+obj/
+
+# Personal user settings
+*.user
+*.suo
+*.userprefs
+
+# Logs and temporary files
+*.log
+*.tmp
